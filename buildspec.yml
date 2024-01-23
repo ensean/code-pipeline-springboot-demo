@@ -18,5 +18,5 @@ artifacts:
   discard-paths: yes
   files:
     - target/graviton2-demo-*.jar
-    - appspec.yaml
+    - appspec.yml
     - scripts/*.sh
